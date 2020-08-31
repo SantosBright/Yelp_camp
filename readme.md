@@ -1,3 +1,3 @@
 # YelpCamp
 
-### Refactored by Ian Schoonover
+### Nodejs, Express, Mongodb and Passportjs
